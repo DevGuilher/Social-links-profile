@@ -51,6 +51,7 @@ h1 {
 .profile-info h2 {
     margin: 0.5rem 0;
     font-weight: 500;
+    color: hsl(0, 0%, 100%);
     pointer-events: none;
 }
 
@@ -65,7 +66,7 @@ h1 {
 .profile-info p {
     font-size: 14px;
     font-weight: 400;
-    color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 50%);
     pointer-events: none;
 }
 
